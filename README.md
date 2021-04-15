@@ -16,6 +16,13 @@ A Udacity Data Scientist Nanodegree Project
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
+The libs used in this project including:
+> * numpy
+> * pandas
+> * matplotlib
+> * seaborn
+> * sklearn
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in interpreting the 2016–2017’s Boston Airbnb Open Data (source: [Kaggle](https://www.kaggle.com/airbnb/boston)) and to answer below 3 questions:

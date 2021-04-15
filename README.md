@@ -32,7 +32,7 @@ listings.csv = This csv contains each listing's property/host features.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@lin.jiadan.1029/data-exploration-on-black-friday-dataset-from-kaggle-ea3f4b7a6798).
+The main findings of the code can be found at the post available [here](https://jamesli0512.medium.com/things-you-should-know-before-becoming-an-airbnb-host-2e916346c52b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

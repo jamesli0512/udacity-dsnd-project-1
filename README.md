@@ -27,8 +27,9 @@ For this project, I was interestested in interpreting the 2016–2017’s Boston
 
 The Jupyter Notebook in this repo is to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 
-calendar.csv - This csv contains listing's availability and price from September 2016 to September 2017.
-listings.csv = This csv contains each listing's property/host features.
+* calendar.csv - This csv contains listing's availability and price from September 2016 to September 2017.
+
+* listings.csv = This csv contains each listing's property/host features.
 
 ## Results<a name="results"></a>
 

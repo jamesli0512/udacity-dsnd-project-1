@@ -1,6 +1,8 @@
 # Write-a-Data-Science-Blog-Post
 A Udacity Data Scientist Nanodegree Project
 
+![alt text](https://github.com/jamesli0512/udacity-dsnd-project-1/blob/main/airbnb.jpeg?raw=true)
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -29,7 +31,7 @@ The Jupyter Notebook in this repo is to showcase work related to the above quest
 
 * calendar.csv - This csv contains listing's availability and price from September 2016 to September 2017.
 
-* listings.csv = This csv contains each listing's property/host features.
+* listings.csv - This csv contains each listing's property/host features.
 
 ## Results<a name="results"></a>
 

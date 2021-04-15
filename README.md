@@ -1,4 +1,5 @@
 # Write-a-Data-Science-Blog-Post
+## Things You Should Know Before Becoming an Airbnb Host
 A Udacity Data Scientist Nanodegree Project
 
 ![alt text](https://github.com/jamesli0512/udacity-dsnd-project-1/blob/main/airbnb.jpeg?raw=true)

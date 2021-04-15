@@ -38,6 +38,8 @@ The Jupyter Notebook in this repo is to showcase work related to the above quest
 
 The main findings of the code can be found at the post available [here](https://jamesli0512.medium.com/things-you-should-know-before-becoming-an-airbnb-host-2e916346c52b).
 
+The underlying data cleaning, exploratory and modeling processes can be found at [this](https://github.com/jamesli0512/udacity-dsnd-project-1) github repo.
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Airbnb, Inc. & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link in Project Motivation section. Also, please feel free to use the code here as you need. 
